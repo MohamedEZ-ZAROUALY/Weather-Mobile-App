@@ -1,4 +1,4 @@
 # Weather-Mobile-App
 
 Thumbnail 
-[](/assets/weatherapp.png)
+![alt text](https://github.com/MohamedEZ-ZAROUALY/Weather-Mobile-App/blob/main/assets/weatherapp.png)
